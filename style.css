@@ -1,0 +1,32 @@
+
+.carousel-item{
+    position: relative;
+}
+.carousel-caption.cmd {
+	position: absolute;
+	top: 40%;
+}
+
+.container{
+
+    max-width: 1200px;
+    margin: auto;
+
+}
+
+.w-48{
+    width: 48%;
+}
+
+.stretched{
+    background: #f8f9fa;
+}
+
+.paginaa{
+    padding-left: 40%;
+    padding-top: 20px;
+}
+
+.cd{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(72, 73, 77, 0.2);
+}
